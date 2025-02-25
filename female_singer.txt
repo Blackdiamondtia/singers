@@ -3,3 +3,10 @@ Name: sreya goshal
 movie: Ashiq 2
 
 year: 2016
+
+Name: chithra
+
+movie: Ashiq 2
+
+year: 2016
+
